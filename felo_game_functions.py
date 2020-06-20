@@ -1,5 +1,5 @@
 import pygame
-
+import os
 def start(page, screen):
     if type(page) is not str:
         page -= 2
@@ -7,7 +7,9 @@ def start(page, screen):
     count = 0
     pygame.font.init()
     font = pygame.font.SysFont('', 32)
-    with open("C:/Users/Computer/Desktop/ics3u1-d/CPT/text/text (" + page + ").txt", encoding="utf8") as f:
+    working_directory = os.getcwd()
+    file_path = (working_directory + "/text/text (" + page + ").txt")
+    with open(file_path, encoding="utf8") as f:
         for line in f:
             count += 35
             text = font.render(line.strip(), 1, [89, 101, 111])
