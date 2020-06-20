@@ -1,0 +1,18 @@
+   You stand in front of the target and stretch out your arms and legs to
+match the white outline.
+   “Remember to hold still,” Richie calls to you. He sounds nervous. But not
+anywhere near as nervous as you are.
+   You’re petrified!
+    Your heart pounds in rhythm with the horse’s hooves stomping around the
+ring.
+   BA-BOOM. BA-BOOM. BA-BOOM.
+   “Don’t move!” the knife thrower warns. “Not an inch. Not unless you
+want to get hurt!”
+   With a horrible glint in his eye, he pulls back his arm and throws the
+huge, gleaming knife.
+   It looks like the knife is coming straight at your heart!
+   Are you going to just stand there? Or should you try to leap out of the
+way?
+   If you leap out of the way, input 1 (75).
+   If you stand still, turn to input 2 (60).
+ 

@@ -1,0 +1,19 @@
+﻿    SWOOSH! The man on the horse gallops right by you — so fast and
+close, he nearly knocks you down.
+    “You!” Mistress Barbarous cries. She points at you as she strides into the
+middle of the ring. “Move it! Get over there so Morton the Knife Thrower can
+practice!”
+    She points at a huge white board. It’s a target with an outline of a person
+painted on it.
+    You know from circus camp what to do. You’re supposed to stand in front
+of the board with your arms out like the painted outline. Then the knife
+thrower will throw knives at you.
+    Missing you. You hope!
+   You glance at the man on the horse. And at his sharp, sparkling knife.
+This could be really dangerous, you realize.
+    Maybe you could still catch up with your mom outside. Then again, if you
+defy Mistress Barbarous’s orders, there’s no telling what might happen….
+    Well?
+    If you stand in front of the board, input 1 (33)
+    If you run to catch up with your mom, input 2 (9)
+ 

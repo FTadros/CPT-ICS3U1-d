@@ -1,0 +1,9 @@
+   “Don’t put me in the jar!” you implore Mistress Barbarous as you stare
+down at the gross goop. “I’ve got something cool, and I’ll give it to you — if
+you let me out of here!”
+   “What is it?” Barbarous asks. She eyes you suspiciously.
+   “You’re going to love it!” you assure her. “It’s —”
+   If you say “a camera,” turn to PAGE 124.
+   If you say “my lucky baseball cap,” turn to PAGE 117.
+   If you say “a dictionary of circus terms,” turn to PAGE 47.
+ 

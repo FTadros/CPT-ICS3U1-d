@@ -1,0 +1,11 @@
+    You glance nervously around, trying to make up your mind. You’ve got
+three choices.
+   You can keep searching for Richie.
+   Or, since you’re here in the clown tent, you can disguise yourself as a
+clown.
+   Or you can hide and hope that Richie comes to find you.
+   Choose!
+   To search for Richie, turn to PAGE 11.
+   To disguise yourself as a clown, turn to PAGE 35.
+   To hide and wait for Richie, turn to PAGE 58.
+ 

@@ -1,0 +1,12 @@
+   No matter how hard you try, you can’t stop dancing.
+   Stay calm, you try to tell yourself. That’s what you learned in circus
+camp. And think! What can you do?
+   If you have a mirror with you, maybe you can try to catch the reflection of
+Barbarous’s pendant and aim it into your own eyes!
+    But that might be dangerous. Who knows what will happen if you gaze at
+the magic pendant?
+    On the other hand, if you have the bullwhip, you might be able to whip
+the violin out of the gypsy’s hands.
+   If you have the mirror and you want to use it, input 1 (15).
+   If you have the bullwhip and you want to use it, input 2 (29).
+   If you don’t have either, or dont want to use them, input 3 (57).
